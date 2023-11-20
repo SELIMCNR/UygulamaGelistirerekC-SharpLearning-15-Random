@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project23\RandomProje\RandomProje\bin\Debug\RandomProje.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project23\RandomProje\RandomProje\bin\Debug\RandomProje.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project23\RandomProje\RandomProje\bin\Debug\RandomProje.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project23\RandomProje\RandomProje\obj\Debug\RandomProje.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project23\RandomProje\RandomProje\obj\Debug\RandomProje.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project23\RandomProje\RandomProje\obj\Debug\RandomProje.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project23\RandomProje\RandomProje\obj\Debug\RandomProje.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project23\RandomProje\RandomProje\obj\Debug\RandomProje.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project23\RandomProje\RandomProje\obj\Debug\RandomProje.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project23\RandomProje\RandomProje\obj\Debug\RandomProje.pdb
